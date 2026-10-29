@@ -1,0 +1,5 @@
+status,units,area_ha
+dropped_outside_study_area,51,2480
+kept,850,17557.6
+dropped_under_0.2ha,50,5.1
+dropped_ndvi_le_0.3,68,3264.8
